@@ -10,7 +10,8 @@
 ```python main.py```
 
 ## Cara Penggunaan
-1. Input bilangan - bilangan bulat atau real yang akan di olah
+1. Input bilangan - bilangan bulat atau real yang akan diolah \n
+contoh: ```-1.2 3,1 2,4.9 2 7 9.8 ,1```
 2. Tunggu hingga proses selesai
 3. Jika ingin mengulang program masukan ```Y```
 4. Jika ingin menghenikan program masukan ```N```
